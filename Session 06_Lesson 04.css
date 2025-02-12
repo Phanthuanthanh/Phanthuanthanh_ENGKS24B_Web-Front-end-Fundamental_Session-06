@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background: hsl(122.42deg 39.44% 49.22%);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.main {
+    margin: 20px;
+}
+
+table {
+    width: 80%;
+}
+
+td {
+    padding: 15px;
+    vertical-align: top;
+}
+
+#tr1{
+    background-color: hsl(0deg 0% 92.28%);
+}
+
+img {
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.main1 {
+    background: hsl(0deg 0% 20%);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
