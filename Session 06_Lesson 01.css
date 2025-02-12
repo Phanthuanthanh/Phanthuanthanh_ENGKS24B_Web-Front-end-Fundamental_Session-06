@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    text-align: center;
+    background-color: hsl(211.06deg 100% 50%);
+    color: white;
+    padding-top: 20px;
+}
+
+td:nth-child(1){
+    text-align: right;
+}
+
+img{
+    border-radius: 50%;
+    border: 2px solid  hsl(211.06deg 100% 50%);
+}
+.main{
+    background-color: #f1f1f1;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
